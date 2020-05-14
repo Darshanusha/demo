@@ -9,3 +9,5 @@ this will get some trouble.
 I hope this is not much of a problem
 
 changes after stash
+
+modified from git GUI
