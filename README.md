@@ -11,3 +11,5 @@ I hope this is not much of a problem
 changes after stash
 
 modified from git GUI
+
+some more mod from gui
